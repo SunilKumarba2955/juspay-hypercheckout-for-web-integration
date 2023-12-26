@@ -1,0 +1,38 @@
+{
+  "name": "juspay-payment-for-web",
+  "version": "1.0.0",
+  "description": "Payment integration for web using nodejs+reactjs",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilKumarba2955/juspay-hypercheckout-for-web-integration.git"
+  },
+  "keywords": [
+    "Juspay",
+    "payment",
+    "juspay",
+    "hypercheckout",
+    "web",
+    "integration"
+  ],
+  "author": "Sunil Kumar B A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilKumarba2955/juspay-hypercheckout-for-web-integration/issues"
+  },
+  "homepage": "https://github.com/SunilKumarba2955/juspay-hypercheckout-for-web-integration#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "firebase-admin": "^12.0.0",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.0.2"
+  }
+}
