@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+.pnp/
+.pnp.js
+*.pnp.js
+
+# Testing
+coverage/
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
