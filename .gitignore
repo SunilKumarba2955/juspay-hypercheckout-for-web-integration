@@ -1,0 +1,28 @@
+# Node.js
+merchent-server/node_modules/
+merchent-server/npm-debug.log
+merchent-server/yarn-error.log
+merchent-server/package-lock.json
+
+# Logs
+merchent-server/logs/
+merchent-server/*.log
+
+# Dependency directories
+merchent-server/.pnp/
+merchent-server/.pnp.js
+merchent-server/*.pnp.js
+
+# Testing
+merchent-server/coverage/
+
+# IDEs
+merchent-server/.idea/
+merchent-server/.vscode/
+
+# Operating System Files
+merchent-server/.DS_Store
+merchent-server/Thumbs.db
+
+# Environment variables
+merchent-server/.env
